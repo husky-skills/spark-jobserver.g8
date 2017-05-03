@@ -18,16 +18,6 @@ $ sbt package
 
 - Upload the jar to Spark Jobserver and run the application.
 
-## Modify this template ##
-
-- [Install sbt](http://www.scala-sbt.org/), version 0.13.0 or higher.
-- Fork [spark-jobserver/spark-jobserver.g8](https://github.com/spark-jobserver/spark-jobserver.g8) on GitHub to your account.
-Let's assume your account is "foo".
-- Clone it.
-
-```sh
-$ git clone git@github.com:foo/spark-jobserver.g8.git
-```
 
 - Now make your desired changes.
 - Do a local deploy of your modified template and try it out.
